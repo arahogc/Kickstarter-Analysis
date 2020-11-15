@@ -3,7 +3,7 @@
 **Purpose and Overview** 
 Analysis on Kickstarter data to uncover trends to help Louise better fund her play's budget of about 10,000 dollars. Within this report, you will find thoughts on challenges, data analysis, and some conclusions drawn from the visualized data. The data can be viewed in its entirety in the Excel spreadsheet labeled "Kickstarter_Challenge." 
 
-This challenge is also to use skills related to excel to be able to pull out data in the specific 
+This challenge is also to use skills learned that related to Excel, to be able to pull out data from specific subsets, and visualize that data in tables and charts. 
 
 **Challenges and Analysis**
 
@@ -15,7 +15,8 @@ The second table is a table that examined the success or failure of plays based 
 
 The second challenge came with the conditional formating and debugging portion of the challenge. When formatting cells to have certain colors based on the percentage of goal amount founded. There was a lot of one color over the other. The module explained this is becaue of outliers influencing the conditional formatting and that this would be addressed later. However, it wasn't truly addressed. Within the module, there is a section on outliers and it stated that if outliers are greater than 1.5xIQR, than the outlier can be thrownout. I considered creating a column to determine outliers for the entirety of the Kickstarter data set, but ultimately decided it wasn't not worth my time to do so (But I would do it for the small subset of plays and theater projects as needed). So my conditonal formatting for percentage founded does not have that beautiful gradient of colors. 
 
-**Results**
+**Results** 
+
 Based on the data from the charts and tables above, it is recommended that Louise launch her kickstarter for her play in May. If she cannot launch in May, then either April or June would be fine, since it seems warmer months tend do better than colder months. At all costs, she should avoid starting a kickstarter project in Janruary. Further, it is recommended that she decrease the amount of money as well, just to help increase the chances of successfully raising money. However, if she raised her goal amount to around $15,000 than she would have an equal chance of succeeding or failing, which she could influence by investing in to marketing her kicks starter. It is recommend that she does not raise the money above $15,000 since it is very likely that her project would fail. Even though there is the anomaly of plays with budgets around $35,000 succeeding, it is still less than that of projects with budgets less than $10,000, and also it doesn't seem that necessary for her particular play. 
 
 While the data provided does provide some insight in how Louise should approach her Kickstarter, it still has a lot of limitation. The data provided only focused on amount of money raised for the kickstarter; if it succeed, failed, or was cancelled; and what the dates were when the projects were launched and closed. Other factors that would have been useful to examine would be how much they put into marketing their kickstarter and on what platfroms (e.g. what social media platforms, how many ads were put out there) and how well detailed their kickstarter page was (e.g. did they have pictures and details of what the project was or was it just a brief description?). Knowing these kind of factors and how they related to the success or failure of a project would be useful for someone like Louise. 
