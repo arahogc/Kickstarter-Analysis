@@ -7,7 +7,7 @@ This challenge is also to use skills related to excel to be able to pull out dat
 
 **Challenges and Analysis**
 
-*Analysis:* The data was distilled into two different tables with accompanying graphs. The first table is a pivot table that focused on the success or failure of theater projects based on their launch dates. When looking through the data, it could be seen that the most successful month for theater projects was May, where 111 theater projects succeed, followed closely by June. The worst month to launch a play was December 
+*Analysis:* The data was distilled into two different tables with accompanying graphs. The first table is a pivot table that focused on the success or failure of theater projects based on their launch dates. When looking through the data, it could be seen that the most successful month for theater projects was May, where 111 theater projects succeed, followed closely by June. The worst month to launch a play was December. 
 
 The second table is a table that examined the success or failure of plays based on the desired goal amount. There are some intesting trends here. Predicatably, projects that had small goal amounts, less than $9,999, had around a 70% success rate (averaged of the three success rates of 76%, 75%, and 55%). Plays that had goals from $10,000-$14,999 had a 53% **failure** rate. At $15,000-$19,999, the plays had a 50/50 chance of either succeeding or failing. Goal amounts higher than $20,000 were more likely to fail. Surprisingly, plays that had goals between $35,000-$40,000 had a 67% success rate. Anything higher, though, was more likely to fail. 
 
@@ -23,5 +23,3 @@ While the data provided does provide some insight in how Louise should approach 
 Other graphs and tables that could have been created include creating a table of success and failed percentage rates for theater projects based on the month, and a table and chart that had tighter ranges of money for goals (e.g. $10,000 to $12,000 vs $10,000 to $14,999).
 
 In conclusion, launching the kickstarter in May and decreasing the amount of money needed will help improve the chances of success for Louise's play. 
-
-
